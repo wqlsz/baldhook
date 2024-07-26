@@ -6,5 +6,6 @@ Hello, with this tool, you can copy the index file of any website, including CSS
 `git clone https://github.com/wqlsz/baldhook.git`
 # After Downloading
 `cd baldhook`
+`pip install -r requirements.txt`
 # USE
 `python baldhook.py`
